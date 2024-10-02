@@ -14,9 +14,3 @@ Pre-requisite: [Arena(r) Simulation Suite](https://www.rockwellautomation.com/en
 
 Open file [main-model.doe](main-model.doc) on Arena. Press "Execute" and look at the automatic generated report.
 
-# Authors
-- Ricardo M. Czekster, Aston University
-- Thais Webber, Aston University
-- Leonardo Bertolin Furstenau, UFRGS
-- César Marcon, PUCRS
-
