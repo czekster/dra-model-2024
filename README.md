@@ -28,7 +28,7 @@ so the output is slightly different (which is to be expected).
 We have set the simulator to perform 10 independent replications.
 ```
 
-**Requirements:** Perl have to be installed in the machine and executables on PATH environment
+**Requirements:** Perl has to be installed in the machine and executables on PATH environment
 
 **Usage:** `C:\perl process.pl main-model-v7.out` *(it will create a file called main-model-v7.out.txt)*
 
