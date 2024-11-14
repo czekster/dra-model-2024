@@ -21,7 +21,7 @@ if (@ARGV != 1) {
 }
 
 my $name = $ARGV[0];
-my $file = "C:\\tmp\\arena-models\\$name"; # FIX your file path !
+my $file = "C:\\tmp\\analysis\\$name"; # FIX your file path !
 
 open(INFILE, "<$file") or die("cannot open hash file named $file\n");
 my(@lines) = <INFILE>;
