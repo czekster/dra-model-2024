@@ -30,7 +30,11 @@ We have set the simulator to perform 10 independent replications.
 
 **Requirements:** Perl has to be installed in the machine and executables on PATH environment
 
-**Usage:** `C:\perl process.pl main-model-v7.out` *(it will create a file called main-model-v7.out.txt)*
+**Usage:** `C:\tmp\perl process.pl main-model-v7.out` 
+
+*(assuming file `c:\\tmp\\analysis\\main-model-v7.out` exists, it will create a file called `c:\\tmp\\analysis\\main-model-v7.out.txt`)*
+
+*(open this file `.out.txt` in your text editor and substitute data in [analysis/analysis.xlsx](analysis/analysis.xlsx))*
 
 # Authors
 - Ricardo M. Czekster, Aston University, UK
